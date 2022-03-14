@@ -6,5 +6,7 @@ ui/ux for vezeeta home page
 - sass
 - bootstrap
 - font-awesome
+- firestore
+- firebase storage
 
 #this is responsive page
